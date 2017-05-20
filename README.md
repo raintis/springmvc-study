@@ -1,4 +1,5 @@
 # 我的 springmvc + mybatis 学习笔记
+（引用他人之识）
 
 笔记分为两大部分: mybatis 和 springmvc
 
@@ -122,6 +123,3 @@
 
 -----
 
-## 赞助
-
-click me(www.163.com)
