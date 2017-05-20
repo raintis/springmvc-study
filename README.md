@@ -124,20 +124,4 @@
 
 ## 赞助
 
-如果您觉得该项目对您有帮助，请扫描下方二维码对我进行鼓励，以便我更好的维护和更新，谢谢支持！
-
-![支付宝](http://brianway.github.io/assets/images/alipay_small.png)
-![微信](http://brianway.github.io/assets/images/wechatpay_small.png)
-
-
-## 联系作者
-
-- [Brian's Personal Website](http://brianway.github.io/)
-- [CSDN](http://blog.csdn.net/h3243212/)
-- [oschina](http://my.oschina.net/brianway)
-
-Email: weichuyang@163.com
-
------
-
-**All Copyright Reserved**
+click me(www.163.com)
